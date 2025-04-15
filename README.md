@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="zlabs-logo.png" alt="zLabs Logo" width="300"/>
+</p>
+
 # 👋 Welcome
 
 I'm a **State-certified Technical Engineer in Automation and Process Control**.  
