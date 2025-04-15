@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome
 
-<!--
-**0xZorro/0xZorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **State-certified Technical Engineer in Automation and Process Control**.  
+Currently, my focus is on **cybersecurity**, **C++**, and **Python**, with a strong interest in technical software development and system-oriented thinking.
 
-Here are some ideas to get you started:
+This space serves as a place to document my personal projects, tools, and experiments based on my current areas of interest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies & Focus Areas
+
+- **Programming Languages**: C++, Python, Structured Text (IEC 61131-3)  
+- **Topics**:  
+  - Cybersecurity & secure software practices  
+  - System-level tools & protocol fundamentals  
+  - Technical background in automation (Siemens TIA Portal & Beckhoff TwinCAT)
+
+---
+
+## Current Projects & Learning Goals
+
+- Developing small tools and scripts in Python & C++  
+- Working with Linux & CLI-based security environments  
+- Hands-on learning via platforms like TryHackMe and Hack The Box
+
+---
+
+## Purpose of this Repository
+
+This profile is a personal collection of technical work,  
+mostly related to **programming**, **security exploration**, and **low-level experimentation**.
