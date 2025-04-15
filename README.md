@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zLabs-logo.png" alt="zLabs Logo" width="300"/>
+  <img src="zLabs-logo.png" alt="zLabs Logo" width="600"/>
 </p>
 
 # 👋 Welcome
